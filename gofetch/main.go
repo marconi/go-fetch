@@ -3,7 +3,7 @@ package main
 import (
     "flag"
     "fmt"
-    "github.com/marconi/gofetch/fetcher"
+    "github.com/marconi/go-fetch/gofetch/fetcher"
 )
 
 var f_url string
