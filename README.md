@@ -3,9 +3,6 @@ GoFetch
 
 A multipart file downloader.
 
-[http://marconi.mit-license.org/](http://marconi.mit-license.org/)
-
-
 Installation
 ------------
 
@@ -15,3 +12,8 @@ Usage
 -----
 
 Run `gofetch --help` for usage.
+
+License
+-------
+
+[http://marconi.mit-license.org/](http://marconi.mit-license.org/)
