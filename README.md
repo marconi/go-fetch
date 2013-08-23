@@ -6,7 +6,7 @@ A multipart file downloader.
 Installation
 ------------
 
-`go fetch github.com/marconi/go-fetch/gofetch`
+`go get github.com/marconi/go-fetch/gofetch`
 
 Usage
 -----
